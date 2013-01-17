@@ -42,10 +42,10 @@ _Technical support_
 
 You may already have professional web site hosting, you might even manage that hosting in-house; if that's the case, great. If you don't manage your own web site hosting, we can set up an account for you at one of our preferred, third-party hosting providers. We will charge you a one-off fee for installing your site on this server, plus any statistics software such as Google Analytics; then the updates to, and management of that server, plus any support issues will be up to you.
 
-We are not a web site hosting company and so we do not offer or include technical support for web site hosting, email or other services relating to web site hosting. If you do require help with anything beyond the design and development of your site, we'll be happy to help.
+We are not a web site hosting company and so we do not offer or include technical support for web site hosting, email, backups, or other services relating to web site hosting. If you do require help with anything beyond the design and development of your site, we'll be happy to help.
 
 ## Legal stuff
-We can't guarantee that the functions contained in any web page templates or in a completed web site will always be error-free and so we can't be liable to you or any third party for damages, including lost profits, lost savings or other incidental, consequential or special damages arising out of the operation of or inability to operate this web site and any other web pages, even if you have advised us of the possibilities of such damages.
+We can't guarantee that the functions contained in any web page templates or in a completed web site will always be error-free and so we can't be liable to you or any third party for damages, including lost or stolen data, lost profits, lost savings or other incidental, consequential or special damages arising out of the operation of or inability to operate this web site and any other web pages, even if you have advised us of the possibilities of such damages.
 
 If any provision of this agreement shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this agreement and shall not affect the validity and enforceability of any remaining provisions.
 
